@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on underwater robotics<br>🧑‍🤝‍🧑 I’m looking for a Ph.D. opportunity in robotics and AI <br>🌱 I’m currently learning AI, control systems, and image processing.<br>
+🛠️ I’m currently working on underwater robotics<br>🧑‍🤝‍🧑 I’m looking for a Ph.D. opportunity in robotics, AI, computer vision <br>🌱 I’m currently learning AI, control systems, and image processing.<br>
 
 
 ## 🌐 Socials:
