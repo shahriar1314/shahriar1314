@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working as a PhD researcher at University of Extremadura, Spain, on Social Robotics<br>🧑‍🤝‍🧑 I've experience in robotics, AI, computer vision <br>🌱 I’m currently learning AI, control systems, and image processing.<br>
+🛠️ I’m currently working as a researcher at University of Extremadura, Spain, on Social Robotics<br>🧑‍🤝‍🧑 I've experience in robotics, AI, computer vision <br>🌱 I’m currently learning AI, control systems, and image processing.<br>
 
 
 ## 🌐 Socials:
